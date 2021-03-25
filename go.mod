@@ -1,4 +1,4 @@
-module github.com/fraugster/parquet-go
+module github.com/atris/parquet-go
 
 go 1.13
 
